@@ -31,7 +31,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
     font-size: 20px;
 }
-/*No need for header style type none*/
+
+header nav ul {
+    style-type: none;
+}
+
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -39,7 +43,7 @@ header nav ul li {
 
 a {
     color: #ffffff;
-    /*removed text decoration: none*/
+    text-decoration: none;
 }
 
 p {
@@ -124,5 +128,6 @@ footer {
 }
 
 footer h3 {
+    margin-bottom: 20px;
     font-size: 20px;
 }
