@@ -15,8 +15,11 @@ N/A
 
 ## Usage
 
-Open the index.html file in a browser, or navigate to *insert GitHub Pages URL here*
+![image info](./Horiseon%20Screenshot.png)
+Open the index.html file in a browser, or navigate to https://veis1337.github.io/Horiseon-Social-Solution-Services-Webpage/#search-engine-optimization
 The navigation bar in the Header can be used to quickly jump to the different sections of the page.
+
+
 
 ## Credits
 
